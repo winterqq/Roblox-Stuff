@@ -1,0 +1,4 @@
+Run this in Synapse X
+loadstring(game:HttpGet("https://raw.githubusercontent.com/winterqq/MowTheLawn/main/theguiscript.lua", true))()
+
+Game Link : https://www.roblox.com/games/10108131074/Mow-The-Lawn-Simulator#ropro-quick-search
